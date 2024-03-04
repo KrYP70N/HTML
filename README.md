@@ -1,46 +1,30 @@
-# HTML Introduction
+# Pre Introduction
 
-## Note 
-
-- stand for Hyper Text Markup Language for creating webpage
-- "index.html" will serve as a default page of directory
-
-## Sample Doc
-
-```
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-</head>
-<body>
-    <h1>Simple Title</h1>
-    <p>Simple paragraph Lorem ipsum, dolor sit amet consectetur adipisicing elit. Cupiditate, eveniet.</p>
-</body>
-</html>
-```
-
-## Explaination
-
-| Element | Description |
-|---------|-------------|
-| `<!DOCTYPE html>` | Define HTML DOC |
-| `<html> `         | Root element    |
-| `<head>`          | Metadata info   |
-| `<title>`         | Title of page   |
-| `<body>`          | Doc body that contain visible contents |
-| `<h1>`            | Heading         |
-| `<p>`             | Paragraph       |
+Before we dive into Frontend development. We ensure to know about web architecture. 
 
 
-## Element 
+## What is web architecutre 
 
-An element contain `start tag <p>` `content` and `end tag </p>`.
-However some elements doesn't have end tag like `img` and `br`.
+That is backbone of the internet. 
+That encompasses the structure, organization, and interaction of various components that make up a web system.
+It's includes both client and server side elements, as well as the protocols and standards that facilitate communication between them.
+So, Understanding of web architecture is very crucial for developers, designers and business owner alike.
 
-```
-<p> content </p>
-```
+These are the most crucial things in web architecutre.
+
+### Client-Server Model
+
+The client-server model form is the foundation of web architecture, with client (such as web browsers or mobile apps) requesting and receiving resource from servers.
+The SOC (Separation of concerns) allows for scalability, as servers can handle multiple client requests simultaneously, and clients can interact with various servers across the web.
+
+### Three-Tire Architecture 
+
+Three-tier architecture further divides the application into three logical layers: presentation (client), application (server), and data (database).
+This modular approach enhances scalability, maintainability, and reusability, as each layer can be developed, deployed, and scaled independently.
+
+### RESTful Architecture:
+
+Representational State Transfer (REST) is a widely adopted architectural style for designing networked applications.
+RESTful systems are characterized by stateless communication, resource-based URLs, and standard HTTP methods (GET, POST, PUT, DELETE).
+This simplicity and flexibility make REST an ideal choice for building scalable and interoperable web APIs.
 
