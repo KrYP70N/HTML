@@ -26,13 +26,13 @@
 
 | Element | Description |
 |---------|-------------|
-| <!DOCTYPE html> | Define HTML DOC |
-| <html>          | Root element    |
-| <head>          | Metadata info   |
-| <title>         | Title of page   |
-| <body>          | Doc body that contain visible contents |
-| <h1>            | Heading         |
-| <p>             | Paragraph       |
+| `<!DOCTYPE html>` | Define HTML DOC |
+| `<html> `         | Root element    |
+| `<head>`          | Metadata info   |
+| `<title>`         | Title of page   |
+| `<body>`          | Doc body that contain visible contents |
+| `<h1>`            | Heading         |
+| `<p>`             | Paragraph       |
 
 
 ## Element 
