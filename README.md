@@ -48,23 +48,20 @@ The objective of this assignment is to familiarize students with basic text elem
 
 Inside the <body> tag, complete the following tasks:
 
-a.) Create a heading with the text "Text and Formatting in HTML Assignment".
+1. Create a heading with the text "Text and Formatting in HTML Assignment".
+2. Create a paragraph with the following text:
+`In this assignment, you will demonstrate your understanding of basic text elements and formatting in HTML. Use appropriate HTML tags to achieve the desired formatting for each task.`
 
-b.) Create a paragraph with the following text:
-"In this assignment, you will demonstrate your understanding of basic text elements and formatting in HTML. Use appropriate HTML tags to achieve the desired formatting for each task."
-
-c.) Create the following sections with appropriate headings:
+3. Create the following sections with appropriate headings:
 
 Section 1: Basic Text Elements <br>
 Section 2: Text Formatting <br>
-Section 3: Lists and Links <br>
 
-d.) For each section, complete the following tasks:
+4. For each section, complete the following tasks:
+- Include a heading with the section title.
+- Use appropriate HTML tags to format the text according to the provided instructions.
 
-Include a heading with the section title.
-Use appropriate HTML tags to format the text according to the provided instructions.
-
-e.) Save the HTML document and ensure that it displays correctly in a web browser.
+5. Save the HTML document and ensure that it displays correctly in a web browser.
 
 > Tasks for Each Section:
 
