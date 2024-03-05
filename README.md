@@ -35,6 +35,21 @@
 | `<p>`             | Paragraph       |
 
 
+## Anatomy
+
+Each **HTML** element consists of several parts : 
+
+| Parts | Description |
+| ----- | ----------- |
+| Opening Tag | The opening tag is the first part of an HTML element, enclosed in angle brackets (`<` and `>`). It specifies the type of element being used and may contain attributes that provide additional information about the element. |
+| Element Name | The element name is the name of the HTML tag, such as `<p>` for paragraphs, `<img>` for images, or `<a>` for links. |
+| Attribute | Attributes provide additional information about an element and are included within the opening tag. They are written as name-value pairs, where the attribute name is followed by an equals sign (`=`) and the attribute value enclosed in quotation marks (`"` or `'`). |
+| Content | The content of an HTML element is the information or markup contained within the opening and closing tags. It can include text, other HTML elements, or both, depending on the type of element. |
+| Closing Tag | The closing tag is the final part of an HTML element, also enclosed in angle brackets (`<` and `>`), but with a forward slash (`/`) before the element name. It indicates the end of the element's content. |
+
+![HTML Element Anatomy](/assets/html-element-anatomy.png)
+
+
 ## Element 
 
 An element contain `start tag <p>` `content` and `end tag </p>`.
