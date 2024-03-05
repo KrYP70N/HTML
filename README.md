@@ -36,4 +36,66 @@ In addition to basic formatting tags, HTML introduces semantic text elements tha
 | `<h1>` to `<h6>` | Heading elements used to define headings of varying levels of importance, with `<h1>` being the highest and `<h6>` being the lowest. |
 | `<span>`         | Generic inline container used to apply styling or scripting to a specific section of text. |
 
+## Assignment 
 
+`
+### Assignment: Text and Formatting in HTML
+
+> Objective:
+The objective of this assignment is to familiarize with basic text elements and formatting techniques in HTML.
+
+> Instructions:
+
+Create a new HTML document named "text_formatting_assignment.html".
+
+Inside the <body> tag, complete the following tasks:
+
+- Create a heading with the text "Text and Formatting in HTML Assignment".
+
+- Create a paragraph with the following text: "In this assignment, you will demonstrate your understanding of basic text elements and formatting in HTML. Use appropriate HTML tags to achieve the desired formatting for each task."
+
+- Create the following sections with appropriate headings:
+
+Section 1: Basic Text Elements
+Section 2: Text Formatting
+Section 3: Lists and Links
+
+- For each section, complete the following tasks:
+
+Include a heading with the section title.
+Use appropriate HTML tags to format the text according to the provided instructions.
+- Save the HTML document and ensure that it displays correctly in a web browser.
+
+Tasks for Each Section:
+
+Section 1: Basic Text Elements
+
+Create a subheading with the text "Basic Text Elements".
+Create a paragraph with the following text:
+"HTML provides several basic text elements for structuring content. These include headings, paragraphs, and line breaks."
+Use appropriate HTML tags to create the following text elements:
+Heading 1 (H1): "Heading 1 Example"
+Paragraph: "This is a paragraph example."
+Line Break: Ensure there is a line break between the paragraph and the next element.
+Section 2: Text Formatting
+
+Create a subheading with the text "Text Formatting".
+Create a paragraph with the following text:
+"HTML offers various text formatting options to enhance readability and visual appeal."
+Use appropriate HTML tags to apply the following formatting to the text:
+Bold: Make the word "HTML" bold.
+Italic: Make the word "formatting" italicized.
+Underline: Underline the word "options".
+Section 3: Lists and Links
+
+Create a subheading with the text "Lists and Links".
+Create a paragraph with the following text:
+"Lists and links are essential elements for organizing content and providing navigation."
+Use appropriate HTML tags to create an unordered list with three items:
+Item 1: "Ordered Lists"
+Item 2: "Unordered Lists"
+Item 3: "Definition Lists"
+Create a hyperlink with the text "Learn more about HTML" linking to the official W3Schools HTML Tutorial (https://www.w3schools.com/html/).
+Submission:
+Submit the completed "text_formatting_assignment.html" file. Ensure that all formatting tasks are correctly implemented and the document is well-structured.
+`
