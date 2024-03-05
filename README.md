@@ -84,8 +84,3 @@ Section 2: Text Formatting <br>
 - Bold: Make the word `HTML` bold.
 - Italic: Make the word `formatting` italicized.
 - Underline: Underline the word `options`.
-
-``
-- Italic: Make the word `formatting` italicized.
-- Underline: Underline the word `options`.
-``
