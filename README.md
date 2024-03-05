@@ -24,6 +24,8 @@ The SOC (Separation of concerns) allows for scalability, as servers can handle m
 Three-tier architecture further divides the application into three logical layers: presentation (client), application (server), and data (database).
 This modular approach enhances scalability, maintainability, and reusability, as each layer can be developed, deployed, and scaled independently.
 
+![Three-Tire Architecture](/assets/three-tire-architecture.png)
+
 ### RESTful Architecture
 
 Representational State Transfer (REST) is a widely adopted architectural style for designing networked applications.
