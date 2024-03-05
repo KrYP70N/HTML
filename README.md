@@ -48,3 +48,4 @@ Microservices architecture decomposes applications into small, independent servi
 Each service focuses on a specific business function and communicates with other services via lightweight protocols like HTTP or messaging queues.
 Microservices promote agility, allowing teams to iterate rapidly, scale horizontally, and adopt polyglot architectures.
 
+![Microservice Architecture](/assets/microservice-architecture.png)
