@@ -71,8 +71,8 @@ Section 2: Text Formatting <br>
 - Create a paragraph with the following text:
 `HTML provides several basic text elements for structuring content. These include headings, paragraphs, and line breaks.`
 - Use appropriate HTML tags to create the following text elements:
-- Heading 1 (H1): "Heading 1 Example"
-- Paragraph: `"This is a paragraph example."`
+- Heading 1 (h1): `Heading 1 Example`
+- Paragraph: `This is a paragraph example.`
 - Line Break: Ensure there is a line break between the paragraph and the next element.
 
 #### Section 2: Text Formatting
