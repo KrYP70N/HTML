@@ -44,7 +44,7 @@ The objective of this assignment is to familiarize students with basic text elem
 
 > Instructions:
 
-### Create a new HTML document named "text_formatting_assignment.html".
+#### Create a new HTML document named "text_formatting_assignment.html".
 
 Inside the <body> tag, complete the following tasks:
 
@@ -65,17 +65,17 @@ Section 2: Text Formatting <br>
 
 > Tasks for Each Section:
 
-### Section 1: Basic Text Elements
+#### Section 1: Basic Text Elements
 
 - Create a subheading with the text "Basic Text Elements".
 - Create a paragraph with the following text:
-`"HTML provides several basic text elements for structuring content. These include headings, paragraphs, and line breaks."`
+`HTML provides several basic text elements for structuring content. These include headings, paragraphs, and line breaks.`
 - Use appropriate HTML tags to create the following text elements:
 - Heading 1 (H1): "Heading 1 Example"
 - Paragraph: `"This is a paragraph example."`
 - Line Break: Ensure there is a line break between the paragraph and the next element.
 
-### Section 2: Text Formatting
+#### Section 2: Text Formatting
 
 - Create a subheading with the text "Text Formatting".
 - Create a paragraph with the following text:
