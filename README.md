@@ -37,7 +37,7 @@ In addition to basic formatting tags, HTML introduces semantic text elements tha
 | `<h1>` to `<h6>` | Heading elements used to define headings of varying levels of importance, with `<h1>` being the highest and `<h6>` being the lowest. |
 | `<span>`         | Generic inline container used to apply styling or scripting to a specific section of text. |
 
-<detail>
+<details>
 
 <summary>Click to view assignment.</summary>
 
@@ -89,4 +89,4 @@ Section 2: Text Formatting <br>
 - Italic: Make the word `formatting` italicized.
 - Underline: Underline the word `options`.
 
-<detail>
+<details>
