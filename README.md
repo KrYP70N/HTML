@@ -37,12 +37,16 @@ In addition to basic formatting tags, HTML introduces semantic text elements tha
 | `<h1>` to `<h6>` | Heading elements used to define headings of varying levels of importance, with `<h1>` being the highest and `<h6>` being the lowest. |
 | `<span>`         | Generic inline container used to apply styling or scripting to a specific section of text. |
 
+<detail>
+
+<summary>Click to view assignment.</summary>
+
 ## Assignment: Text and Formatting in HTML
 
-> Objective:
+### Objective:
 The objective of this assignment is to familiarize students with basic text elements and formatting techniques in HTML.
 
-> Instructions:
+### Instructions:
 
 #### Create a new HTML document named "text_formatting_assignment.html".
 
@@ -84,3 +88,5 @@ Section 2: Text Formatting <br>
 - Bold: Make the word `HTML` bold.
 - Italic: Make the word `formatting` italicized.
 - Underline: Underline the word `options`.
+
+<detail>
