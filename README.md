@@ -55,9 +55,9 @@ b.) Create a paragraph with the following text:
 
 c.) Create the following sections with appropriate headings:
 
-Section 1: Basic Text Elements
-Section 2: Text Formatting
-Section 3: Lists and Links
+Section 1: Basic Text Elements <br>
+Section 2: Text Formatting <br>
+Section 3: Lists and Links <br>
 
 d.) For each section, complete the following tasks:
 
