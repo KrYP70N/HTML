@@ -32,6 +32,16 @@ Representational State Transfer (REST) is a widely adopted architectural style f
 RESTful systems are characterized by stateless communication, resource-based URLs, and standard HTTP methods (GET, POST, PUT, DELETE).
 This simplicity and flexibility make REST an ideal choice for building scalable and interoperable web APIs.
 
+| Method | Description |
+|--------|-------------|
+| GET    | The GET method is used to retrieve data from a specified resource. It should only retrieve data and should not have any other effect on the server. Requests using GET should only retrieve data and should have no other effect on the data. |
+| POST   | The POST method is used to submit data to be processed to a specified resource. It is often used when submitting form data to a server. It can also be used to upload a file to a server. |
+| PUT    | The PUT method is used to update or replace an existing resource or create a new resource if it doesn't exist. It replaces the current representation of the target resource with the request payload. |
+| DELETE | The DELETE method is used to delete a specified resource from the server. It removes the resource identified by the URL. |
+| PATCH  | The PATCH method is used to apply partial modifications to a resource. It is typically used to update specific fields of an existing resource. |
+| HEAD   | The HEAD method is identical to GET, but the server doesn't return the message body in the response. It is often used to retrieve metadata about a resource, such as headers, without transferring the entire content. |
+| OPTIONS | The OPTIONS method is used to describe the communication options for the target resource. It returns the HTTP methods supported by the server for the specified URL. |
+
 ### Microservices Architecture
 
 Microservices architecture decomposes applications into small, independent services that can be developed, deployed, and scaled independently.
