@@ -17,7 +17,7 @@ These are the most crucial things in web architecutre.
 The client-server model form is the foundation of web architecture, with client (such as web browsers or mobile apps) requesting and receiving resource from servers.
 The SOC (Separation of concerns) allows for scalability, as servers can handle multiple client requests simultaneously, and clients can interact with various servers across the web.
 
-![Client Server Model Image](/assets/client-server-architecture.png)
+![Client Server Model Image](/assets/client-server-model.png)
 
 ### Three-Tire Architecture 
 
