@@ -16,4 +16,4 @@ I've created separate branches for each article and lesson in this repo, serving
 
 [Lesson 05 : Table](https://github.com/KrYP70N/HTML/tree/feature/05-table)
 
-[Lesson 06 : Path Handling](https://github.com/KrYP70N/HTML/tree/feature/06-paths-handling)
+[Lesson 06 : Handling Path](https://github.com/KrYP70N/HTML/tree/feature/06-paths-handling)
