@@ -10,10 +10,10 @@ Relative file path describes the location of a file in a web site's folder struc
 
 | Path                         | Description                                               |
 | ---------------------------- | --------------------------------------------------------- |
-| <img src="img.jpg" >         | file is located in the same folder as the current page.   |
-| <img src="images/img.jpg" >  | file is located in the images folder in the current folder |
-| <img src="/images/img.jpg">  | file is located in the images folder at the root of the current web |
-| <img src="../img.jpg">	   | file is located in the folder one level up from the current folder |
+| `<img src="img.jpg" >`         | file is located in the same folder as the current page.   |
+| `<img src="images/img.jpg" >`  | file is located in the images folder in the current folder |
+| `<img src="/images/img.jpg">`  | file is located in the images folder at the root of the current web |
+| `<img src="../img.jpg">`	   | file is located in the folder one level up from the current folder |
 
 
 ## Absolute file path structure
