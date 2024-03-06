@@ -51,3 +51,51 @@ Table encompasses with these tag :
 </table>
 ```
 
+
+## Row and Column merging 
+
+HTML tables can have cells that span over multiple rows and/or columns. In this case you need to merge row, column. 
+You can use `<colspan>` and `<rowspan>` for this operation.
+
+### Colspan
+
+A cell span over multiple column. 
+
+```
+<table>
+  <tr>
+    <th colspan="2">Name</th>
+    <th>Age</th>
+  </tr>
+  <tr>
+    <td>Jill</td>
+    <td>Smith</td>
+    <td>43</td>
+  </tr>
+  <tr>
+    <td>Eve</td>
+    <td>Jackson</td>
+    <td>57</td>
+  </tr>
+</table>
+```
+
+### Row
+
+A cell span over multiple rows.
+
+```
+<table>
+  <tr>
+    <th>Name</th>
+    <td>Jill</td>
+  </tr>
+  <tr>
+    <th rowspan="2">Phone</th>
+    <td>555-1234</td>
+  </tr>
+  <tr>
+    <td>555-8745</td>
+</tr>
+</table>
+```
