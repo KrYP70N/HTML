@@ -10,7 +10,7 @@ There are three types of lists :
 
 ## Unorder List
 
-Create a group using the <ul> tag, and each item within the list starts with the <li> tag.
+Create a group using the `<ul>` tag, and each item within the list starts with the `<li>` tag.
 
 ```
 <ul>
@@ -23,7 +23,7 @@ Create a group using the <ul> tag, and each item within the list starts with the
 
 ## Order List
 
-Create a group using the <ol> tag, and each item within the list starts with the <li> tag.
+Create a group using the `<ol>` tag, and each item within the list starts with the `<li>` tag.
 
 ```
 <ul>
@@ -42,6 +42,7 @@ A description list is a list of terms, with a description of each term.
 - `<dt>` tag defines the term (name)
 - `<dd>` tag describes each term
 
+
 ```
 <dl>
   <dt>HTML</dt>
@@ -50,3 +51,4 @@ A description list is a list of terms, with a description of each term.
   <dd>- Cascading Style Sheets</dd>
 </dl>
 ```
+
