@@ -1,11 +1,52 @@
-# HTML
+# LISTING
 
-I've created separate branches for each article and lesson in this repo, serving as an HTML tutorial for REDOC_11 coding school.
+HTML list allow you to group a set of related item. You can also use nested list.
+There are three types of lists : 
 
-## CONTENTS
+- unorder list
+- order list
+- description list
 
-[Lesson 00 : Pre Introduction](https://github.com/KrYP70N/HTML/tree/feature/00-pre-introduction)
 
-[Lesson 01 : Introduction](https://github.com/KrYP70N/HTML/tree/feature/01-introduction)
+## Unorder List
 
-[Lesson 02 : Text and Formatting](https://github.com/KrYP70N/HTML/tree/feature/02-text-and-formatting)
+Create a group using the <ul> tag, and each item within the list starts with the <li> tag.
+
+```
+<ul>
+    <li>HTML</li>
+    <li>CSS</li>
+    <li>Javascript</li>
+</ul>
+```
+
+
+## Order List
+
+Create a group using the <ol> tag, and each item within the list starts with the <li> tag.
+
+```
+<ul>
+    <li>HTML</li>
+    <li>CSS</li>
+    <li>Javascript</li>
+</ul>
+```
+
+
+## Description List
+
+A description list is a list of terms, with a description of each term.
+
+- `<dl>` tag defines the description list
+- `<dt>` tag defines the term (name)
+- `<dd>` tag describes each term
+
+```
+<dl>
+  <dt>HTML</dt>
+  <dd>- Hyper Text Markup Language</dd>
+  <dt>CSS</dt>
+  <dd>- Cascading Style Sheets</dd>
+</dl>
+```
