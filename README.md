@@ -19,4 +19,6 @@ I've created separate branches for each article and lesson in this repo, serving
 
 [Lesson 06 : Handling Path](https://github.com/KrYP70N/HTML/tree/feature/06-paths-handling)
 
-[Lesson 07 : Multi Media](https://github.com/KrYP70N/HTML/tree/feature/07-media-elements)
+[Lesson 07 : Multimedia Elements](https://github.com/KrYP70N/HTML/tree/feature/07-media-elements)
+
+[Lesson 08 : Layout Elements](https://github.com/KrYP70N/HTML/tree/feature/08-layout-elements)
